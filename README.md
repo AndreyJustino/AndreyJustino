@@ -18,7 +18,7 @@ Sou um aspirante ao desenvolvimento Back-End. Com formação em "Técnico de Des
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrey sebastian justino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey sebastian justino" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/andrey sebastian justino](https://br.linkedin.com/in/andrey-sebastian-justino-a99b5723a)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey sebastian justino" height="30" width="40" /></a>
 <a href="https://instagram.com/dreeyzeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreeyzeira" height="30" width="40" /></a>
 </p>
 
