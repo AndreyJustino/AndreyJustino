@@ -1,32 +1,30 @@
-<h1 align="center">Hi 👋, I'm Andrey Justino</h1> 
 
-<p align="center"> 👨🏻‍💻 A future backend developer 👨🏻‍💻</p> 
-<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" height="330" />
+# Hello World!
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
-- 🧐 I am a student
-- 🎂 I'm 17 years old
-- 👨🏻‍💻 Program for fun 
-- 📫 How to reach me  **andreyjustino2020@gmail.com.br** or **andreyjustinho@gmail.com**
+- Bem vindo ao meu perfil / Welcome to my profile
 
 
-<details>     
- <summary>📃 Experience</summary>
+# Olá, eu sou o Andrey! 👋
 
-- 📖 **Software Developer**\
-📆 2022 - 2023\
-📍 **Escola Técnica Estadual** - Embu das Artes (SP), Brazil
-</details>
+- 🧐 I am a student / Eu sou um estudante
+- 🎂 I'm 18 years old / Tenho 18 anos
+- 👨🏻‍💻 Program for fun / Programo por diversão
+- 📫 How to reach me andreyjustino2020@gmail.com.br / Como me encontrar andreyjustino2020@gmail.com.br
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  
-  
+
+## 🚀 Sobre mim
+Sou um aspirante ao desenvolvimento Back-End. Com formação em "Técnico de Desenvolvimento de Sistema" e de aprimoramento fiz dois cursos online de JavaScript e Python. Tenho me dedicado a criar sistema robusto e eficientes para alimentar e impulsionar aplicações.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/andrey-justino-a99b5723a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey-justino-a99b5723a" height="30" width="40" /></a>
-<a href="https://instagram.com/dreeyzeira/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreeyzeira/" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/741004259616751711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Andrey Justino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrey sebastian justino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrey sebastian justino" height="30" width="40" /></a>
+<a href="https://instagram.com/dreeyzeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreeyzeira" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
 
 <div align="center">
 
