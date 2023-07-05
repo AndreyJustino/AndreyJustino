@@ -39,6 +39,10 @@ Sou um aspirante ao desenvolvimento Back-End. Com formação em "Técnico de Des
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndreyJustino/AndreyJustino/output/snake.svg" alt="Snake animation" />
+<div align="center">
+
+ ![Snake animation](https://github.com/Gabriel-limadev/Gabriel-limadev/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
 
 ###
