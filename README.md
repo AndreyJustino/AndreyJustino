@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Opa 👋 Como vai ?</h1>
 
 ###
 
-<p align="left">My name is Andrey and I'm a dev back-end, from São Paulo, BR.</p>
+<p align="left">Meu nome é Andrey, e sou desenvolvedor Back-End de São Paulo.</p>
 
 ###
 
@@ -12,15 +12,19 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">Olá, meu nome é Andrey. Sou apaixonado por Desenvolvimento Web e atualmente focado em me especializar como desenvolvedor back-end em Node.js e Java. Tenho experiência com HTML, CSS, JavaScript, MySQL e React. Participei de eventos como a Campus Party, onde aprendi com profissionais da área. Cursando Análise e Desenvolvimento de Sistemas (ADS), busco oportunidades para crescer como desenvolvedor e me tornar um especialista no futuro.</p>
+<p align="left">Oi, eu sou o Andrey, um desenvolvedor Back-End em início de carreira, movido por tecnologia e aprendizado constante. Tenho experiência com HTML, CSS, JavaScript, Node.js, MySQL e React, e agora estou estudando Java para expandir meu repertório.
+
+Participei de eventos como a Campus Party, onde aprendi com especialistas, fiz conexões importantes e ganhei insights que moldam meu caminho até hoje. Sou conhecido pela minha liderança, comunicação direta e a vontade de ajudar e colaborar com as pessoas ao meu redor.
+
+Busco oportunidades como Desenvolvedor Junior ou Estagiário para aplicar o que sei, aprender mais e crescer na área. Meu objetivo? Sempre estar à frente e construir uma trajetória sólida, contribuindo para projetos importantes em Back-End.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que uso</h2>
 
 ###
 
@@ -50,7 +54,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Fale comigo através de:</h3>
 
 ###
 
