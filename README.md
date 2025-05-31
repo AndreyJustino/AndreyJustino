@@ -50,6 +50,12 @@ Busco oportunidades como Desenvolvedor Junior ou Estagiário para aplicar o que 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" height="40" alt="spring-boot logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="40" alt="docker logo"  />
 </div>
 
 ###
